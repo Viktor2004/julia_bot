@@ -1,0 +1,20 @@
+#Host name of your SOCKS5 proxy
+#proxyHost = example,com
+#Port of your SOCKS5 proxy
+#proxyPort = 8080
+#User name of your SOCKS5 proxy
+#proxyUserName = userName
+#Password name of your SOCKS5 proxy
+#proxyPassword = somePassword
+#Name of your bot
+#botName = name_bot
+#Token of your bot
+#botToken = yourToken
+#Admin chat id - chat where bot will work
+#adminChatId = -1111111111111
+#Admin id of your bot. Give some additional functionality
+#adminId = 111111111
+#The bot was created to watch Oleg not to say bad words. Here should be written his id
+#olegId = 1111111111
+#Token of Dialog flow system. Helps bot to understand additional commands
+#aiToken = aiToken
